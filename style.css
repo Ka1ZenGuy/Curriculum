@@ -1,0 +1,45 @@
+h1 { 
+    font-family: 'Covered By Your Grace', cursive;Ç
+     
+}
+h5{
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+}
+img
+{
+   width: 50%; 
+   height: 50%;
+   border-radius: 50%;
+   box-shadow: 5px 5px 30px black;
+}
+li{
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Oswald', sans-serif;
+    border: 2px solid yellowgreen
+}
+p{
+    font-family: 'Oswald', sans-serif;
+    background-color: rgba(8, 231, 243, 0.299);
+
+}
+body
+{
+    background-image: url(swirl_pattern.webp);
+}
+h2{
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+}
+h3{
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+}
+h4{
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+}
